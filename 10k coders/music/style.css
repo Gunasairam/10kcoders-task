@@ -1,0 +1,13 @@
+ @import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Lexend&family=Montserrat:wght@300&family=Oxygen&family=Poppins&family=Raleway&family=Roboto:wght@300&family=Rubik&family=Titillium+Web:wght@300&display=swap');
+
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+header{
+    font-family: 'lexend';
+}
+.page-color{
+    background-color: black;
+    color: white;
+}
